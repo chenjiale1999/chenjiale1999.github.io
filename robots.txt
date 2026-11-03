@@ -1,7 +1,7 @@
 # hexo robots.txt
 User-agent: *
 Allow: /
- 
+
 Allow: /archives/
 
 Disallow: /vendors/
@@ -11,11 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://jlchentop.github.io/sitemap.xml
-Sitemap: https://jlchentop.github.io/baidusitemap.xml
-
-
-
-
-Sitemap: https://jlchentop.gitee.io/sitemap.xml
-Sitemap: https://jlchentop.gitee.io/baidusitemap.xml
+Sitemap: https://chenjiale1999.github.io/sitemap.xml
+Sitemap: https://chenjiale1999.github.io/baidusitemap.xml
